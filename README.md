@@ -5,10 +5,14 @@ This is a back-end template of CRUD routes for an e-commerce site using Node, Ex
 
 ## Table of Contents
 - [Installation](#installation)
+- [Usage](#usage)
 - [Questions](#questions)
 
 ## Installation
 To install the application locally, ensure that Node.js is installed, then clone the repository from Github. Connect a MySQL Workbench to the application through the config/connection.js file, then create the database in the workbench using the schema in the db folder. Seed the data by running the seed script ```npm run seed``` and finally start the server by running the start script ```npm run start```.
+
+## Usage
+To explore the database, use a REST client such as Insomnia or Postman to view, test and validate CRUD routes.
 
 ## Questions
 For questions find me on [github](https://github.com/vchan852)
